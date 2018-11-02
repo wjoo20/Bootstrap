@@ -1,0 +1,27 @@
+#cab1{
+	background-color: #563d7c;
+}
+
+.btn1{
+	text-decoration: none;
+	color: #ffffff;	
+	font-family: Arial;
+	font-size: .55rem;
+	padding-left: .3rem;
+	padding-right: .3rem;
+}
+header{
+	display: flex;
+}
+
+#download{
+	margin-top: 4rem;
+}
+
+#nav1 li{ 
+	display: inline-block;
+}
+
+.nav1{ 
+	display: inline-block;
+}
